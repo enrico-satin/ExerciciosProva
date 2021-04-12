@@ -1,4 +1,4 @@
-def exercicio2():
+def ex2():
   num_elementos = int(input("Insira o numero de elementos da lista: "))
   lista = []
 
